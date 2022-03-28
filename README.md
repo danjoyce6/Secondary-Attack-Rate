@@ -32,4 +32,4 @@ There are are a couple of things to notice on the visualization.  The COVID-19 v
 
 
 ## Conclusions
-
+This analysis gives a view of an accurate view of respiratory disease burden and transmission for diseases such as flu and COVID-19 in the United States.  Some of the limitations of this study were the ages of the individuals in the dataset.  This dataset was heavily influenced by younger people, as the median and mean ages of each row in the dataset was much lower than that of a representative sample in the United States.  In addition, some states are much more represented and further analysis should focus on standardizing the age as well as the representation from each state.
