@@ -21,5 +21,15 @@ Then the data was grouped by profile_id_index and datetime so that each event of
 Finally the secondary attack rate by week was calculated by taking the sum of secondary transmission cases and dividing them by the count of index cases of fever.  The calculation and dataframe are presented in the following image.
 ![image](https://user-images.githubusercontent.com/88444529/160430414-18683a60-140e-4ef9-9f28-c6db126632e9.png)
 ## 2.  Vizualization
+A visualization of secondary attack rate by week was made using matplotlib.  The secondary attack rate was expressed as a percentage and line graph on the secondary y axis while the secondary case sum was displayed as a bar graph on the primary y axis.  The x axis is represented by the week of the year for 2021.  Two objects were created that would hold each of the variables on their respective y axes.  
+![image](https://user-images.githubusercontent.com/88444529/160432317-9e4e5dd9-eb52-474f-9e06-69271602940b.png)
+![image](https://user-images.githubusercontent.com/88444529/160432357-2f13da73-d363-4a6a-8d7e-93615ab1e6d4.png)
 
 ## 3.  Analysis
+There are are a couple of things to notice on the visualization.  The COVID-19 variant Omicron, was first identified in the United States on December 1, 2021 or week 49.  In the visualization it can be seen that this corresponded with a big increase in the coming weeks.  Flu typically peaks between December and February and in visuals provided by the CDC there was also a peak in Flu activity at the end of 2021 going into 2022, when there was a dramatic increase in the secondary attack rate and secondary cases.  These results appear to represent the nation as a whole althugh there are some limitations when considering the data source such as misrepresentation of the younger age groups (they had a higher burden of disease during the Omicron surge) and some states are much more represented than others.
+![image](https://user-images.githubusercontent.com/88444529/160433525-5d377411-3d24-407f-89b0-2281f21532e6.png)
+![image](https://user-images.githubusercontent.com/88444529/160433541-41c39ae9-fe9d-4a14-9332-0ed5ebbc2b8c.png)
+
+
+## Conclusions
+
